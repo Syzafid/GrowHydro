@@ -1,0 +1,36 @@
+
+// About page translations
+const about = {
+  "About GrowSpace": "About GrowSpace",
+  "Revolutionizing home gardening through innovative hydroponic solutions since 2020.": "Revolutionizing home gardening through innovative hydroponic solutions since 2020.",
+  "Our Mission": "Our Mission",
+  "At GrowSpace, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.": "At GrowSpace, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.",
+  "We're dedicated to developing innovative growing solutions that conserve water, eliminate pesticides, and reduce the carbon footprint associated with traditional agriculture and food transportation.": "We're dedicated to developing innovative growing solutions that conserve water, eliminate pesticides, and reduce the carbon footprint associated with traditional agriculture and food transportation.",
+  "Through education and community building, we aim to spark a revolution in how people think about growing food and connect with nature in their own homes.": "Through education and community building, we aim to spark a revolution in how people think about growing food and connect with nature in their own homes.",
+  "Our Core Values": "Our Core Values",
+  "Innovation": "Innovation",
+  "We constantly research and develop new technologies to make hydroponics more efficient, affordable, and user-friendly.": "We constantly research and develop new technologies to make hydroponics more efficient, affordable, and user-friendly.",
+  "Sustainability": "Sustainability",
+  "Our systems use up to 95% less water than traditional gardening methods and are designed with eco-friendly materials wherever possible.": "Our systems use up to 95% less water than traditional gardening methods and are designed with eco-friendly materials wherever possible.",
+  "Education": "Education",
+  "We believe in empowering individuals with knowledge. Every product comes with comprehensive guides and our blog provides continuous learning resources.": "We believe in empowering individuals with knowledge. Every product comes with comprehensive guides and our blog provides continuous learning resources.",
+  "Benefits of Hydroponic Gardening": "Benefits of Hydroponic Gardening",
+  "Water Efficiency": "Water Efficiency",
+  "Hydroponic systems use up to 95% less water than traditional soil gardening, as water is recirculated rather than lost to the environment.": "Hydroponic systems use up to 95% less water than traditional soil gardening, as water is recirculated rather than lost to the environment.",
+  "Grow Anywhere": "Grow Anywhere",
+  "No soil means you can grow indoors year-round, regardless of outdoor conditions, climate, or available garden space.": "No soil means you can grow indoors year-round, regardless of outdoor conditions, climate, or available garden space.",
+  "Faster Growth": "Faster Growth",
+  "Plants grow up to 50% faster in hydroponics, as they have direct access to nutrients and can devote more energy to above-ground growth.": "Plants grow up to 50% faster in hydroponics, as they have direct access to nutrients and can devote more energy to above-ground growth.",
+  "No Pesticides": "No Pesticides",
+  "Growing indoors with clean systems dramatically reduces pest problems, allowing for truly organic growth without chemical interventions.": "Growing indoors with clean systems dramatically reduces pest problems, allowing for truly organic growth without chemical interventions.",
+  "Our Team": "Our Team",
+  "Founder & CEO": "Founder & CEO",
+  "With over 15 years in sustainable agriculture, Sarah founded GrowSpace to make hydroponics accessible to everyone.": "With over 15 years in sustainable agriculture, Sarah founded GrowSpace to make hydroponics accessible to everyone.",
+  "CTO": "CTO",
+  "Michael leads our R&D team, combining his background in engineering and plant science to create innovative growing solutions.": "Michael leads our R&D team, combining his background in engineering and plant science to create innovative growing solutions.",
+  "Customer Experience": "Customer Experience",
+  "Emily ensures that every customer has the knowledge and support they need to succeed with their hydroponic garden.": "Emily ensures that every customer has the knowledge and support they need to succeed with their hydroponic garden.",
+  "Hydroponic Expert": "Hydroponic Expert",
+};
+
+export default about;
