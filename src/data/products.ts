@@ -41,7 +41,7 @@ const products: Product[] = [
     bestseller: true,
     new: false,
     stock: 15,
-    category: "Systems"
+    category: "Equipment"
   },
   {
     id: "nft-starter-kit",
@@ -67,7 +67,7 @@ const products: Product[] = [
     bestseller: false,
     new: true,
     stock: 22,
-    category: "Systems"
+    category: "Starter Kits"
   },
   {
     id: "premium-nutrient-kit",
@@ -93,7 +93,7 @@ const products: Product[] = [
     bestseller: true,
     new: false,
     stock: 48,
-    category: "Nutrients"
+    category: "Nutrients Supplements"
   },
   {
     id: "led-grow-panel",
@@ -146,7 +146,7 @@ const products: Product[] = [
     bestseller: false,
     new: true,
     stock: 19,
-    category: "Systems"
+    category: "Equipment"
   },
   {
     id: "hydroton-clay-pellets",
@@ -172,7 +172,7 @@ const products: Product[] = [
     bestseller: true,
     new: false,
     stock: 35,
-    category: "Growing Media"
+    category: "Starter Kits"
   },
   {
     id: "digital-ph-meter",
@@ -199,7 +199,7 @@ const products: Product[] = [
     bestseller: false,
     new: false,
     stock: 23,
-    category: "Accessories"
+    category: "Equipment"
   },
   {
     id: "mini-hydroponic-herb-garden",
@@ -225,7 +225,7 @@ const products: Product[] = [
     bestseller: false,
     new: true,
     stock: 29,
-    category: "Systems"
+    category: "Starter Kits"
   }
 ];
 

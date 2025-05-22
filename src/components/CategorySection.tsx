@@ -23,13 +23,13 @@ const CategorySection: React.FC = () => {
       title: t("Starter Kits"),
       image: "/ST.jpg",
       description: "Semua yang diperlukan pemula untuk mulai bertanam dengan sukses",
-      link: "/shop/kits"
+      link: "/shop/Starter Kits"
     },
     {
-      title: t("Accessories"),
+      title: t("Nutrients Supplements"),
       image: "/AS.jpg",
       description: "Nutrisi, alat pengujian, dan media tanam",
-      link: "/shop/accessories"
+      link: "/shop/Nutrients Supplements"
     }
   ];
 

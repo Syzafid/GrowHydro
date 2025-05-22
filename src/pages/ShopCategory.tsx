@@ -28,23 +28,23 @@ const ShopCategory: React.FC = () => {
   const [showFilters, setShowFilters] = useState(false);
   
   const categoryData: CategoryMapping = {
-    "systems": {
+    "Equipment": {
       title: t("Hydroponic Systems"),
       description: t("Complete growing systems designed for various spaces, plants, and experience levels. From beginner-friendly countertop gardens to professional multi-plant systems."),
       image: "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?auto=format&fit=crop&q=80&w=800"
     },
-    "seeds": {
-      title: t("Plant Seeds"),
+    "Seeds & Plants": {
+      title: t("Seeds & Plants"),
       description: t("Premium seeds specially selected for optimal growth in hydroponic environments. Choose from herbs, vegetables, flowers, and specialty varieties."),
       image: "https://images.unsplash.com/photo-1470058869958-2a77ade41c02?auto=format&fit=crop&q=80&w=800"
     },
-    "kits": {
+    "Starter Kits": {
       title: t("Starter Kits"),
       description: t("All-inclusive kits containing everything you need to begin your hydroponic journey. Perfect for beginners looking to grow their first plants."),
       image: "https://images.unsplash.com/photo-1446071103084-c257b5f70672?auto=format&fit=crop&q=80&w=800"
     },
-    "accessories": {
-      title: t("Accessories"),
+    "Nutrients Supplements": {
+      title: t("Nutrients Supplements"),
       description: t("Essential tools and accessories to maintain and optimize your hydroponic garden, from pH meters to nutrient solutions and replacement parts."),
       image: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&q=80&w=800"
     },
@@ -70,10 +70,10 @@ const ShopCategory: React.FC = () => {
     } else {
       // For category pages, map the URL parameter to the actual category name in the data
       const categoryMap: {[key: string]: string} = {
-        'systems': 'Systems',
+        'equipment': 'Equipment',
         'seeds': 'Seeds',
-        'kits': 'Kits',
-        'accessories': 'Accessories'
+        'starter kits': 'Starter Kits',
+        'nutrients & suplements': 'Nutrient & Suplements'
       };
       
       const mappedCategory = categoryMap[normalizedCategory] || normalizedCategory;

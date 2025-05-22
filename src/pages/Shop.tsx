@@ -16,10 +16,10 @@ const Shop: React.FC = () => {
   const [showFilters, setShowFilters] = useState(false);
   
   const categories = [
-    { id: 'equipment', name: t('Equipment') },
-    { id: 'seeds', name: t('Seeds') },
-    { id: 'kits', name: t('Starter Kits') },
-    { id: 'accessories', name: t('Accessories') }
+    { id: 'Equipment', name: t('Equipment') },
+    { id: 'Seeds & Plants', name: t('Seeds & Plants') },
+    { id: 'Starter Kits', name: t('Starter Kits') },
+    { id: 'Nutrients Supplements', name: t('Nutrients Supplements') }
   ];
   
   useEffect(() => {

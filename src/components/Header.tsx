@@ -96,10 +96,10 @@ const Header: React.FC = () => {
                       <li>
                         <NavigationMenuLink asChild>
                           <Link
-                            to="/shop/growing-kits"
+                            to="/shop/starter%20kits"
                             className="block select-none space-y-1 rounded-md p-3 hover:bg-gray-100 transition-colors"
                           >
-                            <div className="font-medium">{t('Growing Kits')}</div>
+                            <div className="font-medium">{t('Starter Kits')}</div>
                             <p className="text-sm text-gray-500">{t('Complete systems for beginners and experts')}</p>
                           </Link>
                         </NavigationMenuLink>
@@ -118,10 +118,10 @@ const Header: React.FC = () => {
                       <li>
                         <NavigationMenuLink asChild>
                           <Link
-                            to="/shop/nutrients"
+                            to="/shop/nutrients supplements"
                             className="block select-none space-y-1 rounded-md p-3 hover:bg-gray-100 transition-colors"
                           >
-                            <div className="font-medium">{t('Nutrients & Supplements')}</div>
+                            <div className="font-medium">{t('Nutrients Supplements')}</div>
                             <p className="text-sm text-gray-500">{t('Feed your plants for optimal growth')}</p>
                           </Link>
                         </NavigationMenuLink>
@@ -261,11 +261,11 @@ const Header: React.FC = () => {
                 </Link>
                 <div className="pl-4 space-y-2 text-sm">
                   <Link 
-                    to="/shop/growing-kits"
+                    to="/shop/starter-kits"
                     className="block py-1"
                     onClick={() => setMobileMenuOpen(false)}
                   >
-                    {t('Growing Kits')}
+                    {t('Starter Kits')}
                   </Link>
                   <Link 
                     to="/shop/seeds-plants"
