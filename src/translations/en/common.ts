@@ -29,7 +29,7 @@ const common = {
   "Returns Policy": "Returns Policy",
   "Terms & Conditions": "Terms & Conditions",
   "Privacy Policy": "Privacy Policy",
-  "© 2023 GrowSpace. All rights reserved.": "© 2023 GrowSpace. All rights reserved.",
+  "© 2023 GrowHydro. All rights reserved.": "© 2023 GrowHydro. All rights reserved.",
 
   // Generic UI elements
   "View Details": "View Details",

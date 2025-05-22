@@ -35,7 +35,7 @@ const TermsConditions: React.FC = () => {
               </div>
               <div className="ml-9">
                 <p className="text-gray-600 mb-4">
-                  These Terms and Conditions ("Terms") govern your use of the GrowSpace website (the "Site") and any related services provided by GrowSpace, Inc. ("GrowSpace", "we", "us", or "our").
+                  These Terms and Conditions ("Terms") govern your use of the GrowHydro website (the "Site") and any related services provided by GrowHydro, Inc. ("GrowHydro", "we", "us", or "our").
                 </p>
                 <p className="text-gray-600 mb-4">
                   By accessing or using our Site, you agree to be bound by these Terms. If you disagree with any part of these Terms, you may not access the Site.
@@ -116,7 +116,7 @@ const TermsConditions: React.FC = () => {
               </div>
               <div className="ml-9">
                 <p className="text-gray-600 mb-4">
-                  The Site and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio) are owned by GrowSpace, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+                  The Site and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio) are owned by GrowHydro, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
                 </p>
                 
                 <p className="text-gray-600 mb-4">
@@ -148,7 +148,7 @@ const TermsConditions: React.FC = () => {
                 
                 <h3 className="font-semibold text-leaf-700 mb-2">5.2 Limitation of Liability</h3>
                 <p className="text-gray-600 mb-4 uppercase text-sm">
-                  TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL GROWSPACE, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE SITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE SITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
+                  TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL GrowHydro, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE SITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE SITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
                 </p>
               </div>
             </div>

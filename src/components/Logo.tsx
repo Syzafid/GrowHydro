@@ -65,7 +65,7 @@ const Logo: React.FC<LogoProps> = ({ variant = 'default' }) => {
   const accentColorClass = variant === 'footer' ? 'text-leaf-300' : 'text-leaf-600';
 
   return (
-    <Link to="/" aria-label="GrowSpace Home">
+    <Link to="/" aria-label="GrowHydro Home">
       <motion.div 
         className="flex items-center gap-1"
         initial="hidden"
@@ -90,14 +90,14 @@ const Logo: React.FC<LogoProps> = ({ variant = 'default' }) => {
             <Droplet size={14} className="text-blue-400 fill-blue-200" />
           </motion.div>
           <div className="w-8 h-8 bg-gradient-to-br from-leaf-300 to-leaf-600 rounded-full flex items-center justify-center">
-            <span className="sr-only">GrowSpace Logo</span>
+            <span className="sr-only">GrowHydro Logo</span>
           </div>
         </div>
         <motion.span 
           variants={itemVariants} 
           className={`font-display font-semibold ${textSizeClass} ${textColorClass}`}
         >
-          Grow<motion.span variants={itemVariants} className={accentColorClass}>Space</motion.span>
+          Grow<motion.span variants={itemVariants} className={accentColorClass}>Hydro</motion.span>
         </motion.span>
       </motion.div>
     </Link>

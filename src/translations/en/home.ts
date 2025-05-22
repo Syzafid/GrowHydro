@@ -11,7 +11,7 @@ const home = {
   "Hydroponic System": "Hydroponic System",
 
   // Features Section
-  "Why Choose GrowSpace": "Why Choose GrowSpace",
+  "Why Choose GrowHydro": "Why Choose GrowHydro",
   "Sustainable Growing": "Sustainable Growing",
   "Our hydroponic systems use 90% less water than traditional farming methods while producing higher yields.": "Our hydroponic systems use 90% less water than traditional farming methods while producing higher yields.",
   "Year-Round Harvests": "Year-Round Harvests",

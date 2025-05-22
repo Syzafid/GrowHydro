@@ -1,10 +1,10 @@
 
 // About page translations
 const about = {
-  "About GrowSpace": "About GrowSpace",
+  "About GrowHydro": "About GrowHydro",
   "Revolutionizing home gardening through innovative hydroponic solutions since 2020.": "Revolutionizing home gardening through innovative hydroponic solutions since 2020.",
   "Our Mission": "Our Mission",
-  "At GrowSpace, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.": "At GrowSpace, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.",
+  "At GrowHydro, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.": "At GrowHydro, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.",
   "We're dedicated to developing innovative growing solutions that conserve water, eliminate pesticides, and reduce the carbon footprint associated with traditional agriculture and food transportation.": "We're dedicated to developing innovative growing solutions that conserve water, eliminate pesticides, and reduce the carbon footprint associated with traditional agriculture and food transportation.",
   "Through education and community building, we aim to spark a revolution in how people think about growing food and connect with nature in their own homes.": "Through education and community building, we aim to spark a revolution in how people think about growing food and connect with nature in their own homes.",
   "Our Core Values": "Our Core Values",
@@ -25,7 +25,7 @@ const about = {
   "Growing indoors with clean systems dramatically reduces pest problems, allowing for truly organic growth without chemical interventions.": "Growing indoors with clean systems dramatically reduces pest problems, allowing for truly organic growth without chemical interventions.",
   "Our Team": "Our Team",
   "Founder & CEO": "Founder & CEO",
-  "With over 15 years in sustainable agriculture, Sarah founded GrowSpace to make hydroponics accessible to everyone.": "With over 15 years in sustainable agriculture, Sarah founded GrowSpace to make hydroponics accessible to everyone.",
+  "With over 15 years in sustainable agriculture, Sarah founded GrowHydro to make hydroponics accessible to everyone.": "With over 15 years in sustainable agriculture, Sarah founded GrowHydro to make hydroponics accessible to everyone.",
   "CTO": "CTO",
   "Michael leads our R&D team, combining his background in engineering and plant science to create innovative growing solutions.": "Michael leads our R&D team, combining his background in engineering and plant science to create innovative growing solutions.",
   "Customer Experience": "Customer Experience",

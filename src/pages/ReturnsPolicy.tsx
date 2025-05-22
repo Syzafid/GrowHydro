@@ -92,7 +92,7 @@ const ReturnsPolicy: React.FC = () => {
                 </p>
                 <ol className="list-decimal pl-5 text-gray-600 space-y-4">
                   <li>
-                    <span className="font-medium">Initiate the return:</span> Log into your account, go to the order history, and select "Return Item" next to the product you wish to return. Alternatively, email our customer service team at returns@growspace.com with your order number.
+                    <span className="font-medium">Initiate the return:</span> Log into your account, go to the order history, and select "Return Item" next to the product you wish to return. Alternatively, email our customer service team at returns@GrowHydro.com with your order number.
                   </li>
                   <li>
                     <span className="font-medium">Receive return authorization:</span> Wait for our confirmation email with return instructions and a shipping label (if applicable).
@@ -149,7 +149,7 @@ const ReturnsPolicy: React.FC = () => {
                 <ul className="list-disc pl-5 text-gray-600 mb-6 space-y-2">
                   <li>Contact us within 48 hours of delivery with photos of the defect</li>
                   <li>We'll either issue a replacement or provide a full refund including original shipping charges</li>
-                  <li>Return shipping for defective items will be covered by GrowSpace</li>
+                  <li>Return shipping for defective items will be covered by GrowHydro</li>
                 </ul>
                 
                 <h3 className="font-semibold text-leaf-700 mb-2">Exchanges</h3>

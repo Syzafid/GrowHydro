@@ -95,7 +95,7 @@ const Footer: React.FC = () => {
               <Logo variant="footer" />
             </div>
             <p className="text-leaf-100 mb-4 max-w-xs">
-              Grow Space offers premium hydroponic equipment and plant seeds for enthusiasts and professionals alike.
+              Grow Hydro offers premium hydroponic equipment and plant seeds for enthusiasts and professionals alike.
             </p>
             <div className="flex space-x-3">
               {[
@@ -239,8 +239,8 @@ const Footer: React.FC = () => {
                 <div className="mr-3 p-2 bg-leaf-700/50 rounded-full">
                   <Mail size={18} className="text-leaf-300" />
                 </div>
-                <a href="mailto:info@growspace.com" className="text-leaf-100 hover:text-white transition-colors">
-                  info@growspace.com
+                <a href="mailto:info@GrowHydro.com" className="text-leaf-100 hover:text-white transition-colors">
+                  info@GrowHydro.com
                 </a>
               </motion.li>
             </ul>
@@ -251,7 +251,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-leaf-700/50 mt-8 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-leaf-200 text-sm mb-4 md:mb-0">
-              &copy; {new Date().getFullYear()} Grow Space. All rights reserved.
+              &copy; {new Date().getFullYear()} Grow Hydro. All rights reserved.
             </p>
             <div className="flex space-x-4">
               {["Privacy Policy", "Terms of Service", "Sitemap"].map((item, index) => (

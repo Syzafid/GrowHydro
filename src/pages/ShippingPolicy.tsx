@@ -100,7 +100,7 @@ const ShippingPolicy: React.FC = () => {
                   Semua pesanan menyertakan informasi pelacakan yang akan dikirim ke email Anda setelah paket Anda dikirim. Anda juga dapat:
                 </p>
                 <ul className="list-disc pl-5 text-gray-600 space-y-2">
-                  <li>Lacak pesanan Anda dengan masuk ke akun GrowSpace Anda dan melihat riwayat pesanan Anda</li>
+                  <li>Lacak pesanan Anda dengan masuk ke akun GrowHydro Anda dan melihat riwayat pesanan Anda</li>
                   <li>Hubungi tim layanan pelanggan kami dengan nomor pesanan Anda untuk bantuan</li>
                   <li>Gunakan nomor pelacakan yang disediakan langsung di situs web kurir (JNE, SiCepat, atau J&T)</li>
                 </ul>

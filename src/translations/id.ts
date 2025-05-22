@@ -19,7 +19,7 @@ const translations = {
   "Try AR Preview": "Coba Pratinjau AR",
 
   // Features Section
-  "Why Choose GrowSpace": "Mengapa Memilih GrowSpace",
+  "Why Choose GrowHydro": "Mengapa Memilih GrowHydro",
   "Sustainable Growing": "Pertumbuhan Berkelanjutan",
   "Our hydroponic systems use 90% less water than traditional farming methods while producing higher yields.": "Sistem hidroponik kami menggunakan 90% lebih sedikit air dibandingkan metode pertanian tradisional sambil menghasilkan hasil yang lebih tinggi.",
   "Year-Round Harvests": "Panen Sepanjang Tahun",
@@ -80,7 +80,7 @@ const translations = {
   "Returns Policy": "Kebijakan Pengembalian",
   "Terms & Conditions": "Syarat & Ketentuan",
   "Privacy Policy": "Kebijakan Privasi",
-  "© 2023 GrowSpace. All rights reserved.": "© 2023 GrowSpace. Semua hak dilindungi.",
+  "© 2023 GrowHydro. All rights reserved.": "© 2023 GrowHydro. Semua hak dilindungi.",
 
   // Authentication
   "Sign In": "Masuk",
@@ -150,10 +150,10 @@ const translations = {
   "Return Home": "Kembali ke Beranda",
 
   // About Page
-  "About GrowSpace": "Tentang GrowSpace",
+  "About GrowHydro": "Tentang GrowHydro",
   "Revolutionizing home gardening through innovative hydroponic solutions since 2020.": "Merevolusi berkebun di rumah melalui solusi hidroponik inovatif sejak 2020.",
   "Our Mission": "Misi Kami",
-  "At GrowSpace, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.": "Di GrowSpace, kami percaya bahwa setiap orang berhak mendapatkan akses ke makanan segar dan bergizi, terlepas dari tempat tinggal atau musim. Misi kami adalah membuat hidroponik dapat diakses, terjangkau, dan menyenangkan bagi semua orang dari pemula hingga ahli.",
+  "At GrowHydro, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.": "Di GrowHydro, kami percaya bahwa setiap orang berhak mendapatkan akses ke makanan segar dan bergizi, terlepas dari tempat tinggal atau musim. Misi kami adalah membuat hidroponik dapat diakses, terjangkau, dan menyenangkan bagi semua orang dari pemula hingga ahli.",
   "We're dedicated to developing innovative growing solutions that conserve water, eliminate pesticides, and reduce the carbon footprint associated with traditional agriculture and food transportation.": "Kami berdedikasi untuk mengembangkan solusi pertumbuhan inovatif yang menghemat air, menghilangkan pestisida, dan mengurangi jejak karbon yang terkait dengan pertanian tradisional dan transportasi makanan.",
   "Through education and community building, we aim to spark a revolution in how people think about growing food and connect with nature in their own homes.": "Melalui pendidikan dan pembangunan komunitas, kami bertujuan untuk memicu revolusi dalam cara orang berpikir tentang menanam makanan dan terhubung dengan alam di rumah mereka sendiri.",
   "Our Core Values": "Nilai Inti Kami",
@@ -174,7 +174,7 @@ const translations = {
   "Growing indoors with clean systems dramatically reduces pest problems, allowing for truly organic growth without chemical interventions.": "Tumbuh di dalam ruangan dengan sistem bersih secara dramatis mengurangi masalah hama, memungkinkan pertumbuhan organik yang benar tanpa intervensi kimia.",
   "Our Team": "Tim Kami",
   "Founder & CEO": "Pendiri & CEO",
-  "With over 15 years in sustainable agriculture, Sarah founded GrowSpace to make hydroponics accessible to everyone.": "Dengan pengalaman lebih dari 15 tahun dalam pertanian berkelanjutan, Sarah mendirikan GrowSpace untuk membuat hidroponik dapat diakses oleh semua orang.",
+  "With over 15 years in sustainable agriculture, Sarah founded GrowHydro to make hydroponics accessible to everyone.": "Dengan pengalaman lebih dari 15 tahun dalam pertanian berkelanjutan, Sarah mendirikan GrowHydro untuk membuat hidroponik dapat diakses oleh semua orang.",
   "CTO": "CTO",
   "Michael leads our R&D team, combining his background in engineering and plant science to create innovative growing solutions.": "Michael memimpin tim R&D kami, menggabungkan latar belakangnya dalam teknik dan ilmu tanaman untuk menciptakan solusi pertumbuhan yang inovatif.",
   "Customer Experience": "Pengalaman Pelanggan",

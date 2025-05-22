@@ -33,7 +33,7 @@ document.body.innerHTML = `
         color: #2E7D32;
         font-family: 'Inter', sans-serif;
         font-size: 16px;
-      ">GrowSpace Loading...</p>
+      ">GrowHydro Loading...</p>
     </div>
   </div>
   <style>

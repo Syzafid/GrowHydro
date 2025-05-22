@@ -88,7 +88,7 @@ const mockSpecifications: { [key: string]: ProductSpecificationGroup[] } = {
     {
       title: "General",
       specs: [
-        { name: "Brand", value: "GrowSpace" },
+        { name: "Brand", value: "GrowHydro" },
         { name: "Model", value: "Hydro Pro 2000" },
         { name: "Warranty", value: "1 year limited warranty" },
       ]

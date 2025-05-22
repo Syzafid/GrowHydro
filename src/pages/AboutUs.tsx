@@ -22,7 +22,7 @@ const AboutUs: React.FC = () => {
         {/* Hero section */}
         <div className="mb-16 text-center">
           <h1 className="text-4xl md:text-5xl font-display font-bold text-leaf-800 mb-4">
-            {t('About')} <span className="text-gradient">GrowSpace</span>
+            {t('About')} <span className="text-gradient">GrowHydro</span>
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
             {t('Revolutionizing home gardening through innovative hydroponic solutions since 2020.')}
@@ -34,7 +34,7 @@ const AboutUs: React.FC = () => {
           <div className="order-2 md:order-1">
             <h2 className="text-3xl font-display font-semibold text-leaf-800 mb-4">{t('Our Mission')}</h2>
             <p className="text-gray-600 mb-4">
-              {t('At GrowSpace, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.')}
+              {t('At GrowHydro, we believe that everyone deserves access to fresh, nutritious food, regardless of where they live or the season. Our mission is to make hydroponics accessible, affordable, and enjoyable for everyone from beginners to experts.')}
             </p>
             <p className="text-gray-600 mb-4">
               {t('We\'re dedicated to developing innovative growing solutions that conserve water, eliminate pesticides, and reduce the carbon footprint associated with traditional agriculture and food transportation.')}
@@ -174,7 +174,7 @@ const AboutUs: React.FC = () => {
               <h3 className="text-xl font-semibold text-leaf-800 mb-1">Sarah Johnson</h3>
               <p className="text-leaf-600 mb-3">{t('Founder & CEO')}</p>
               <p className="text-gray-600">
-                {t('With over 15 years in sustainable agriculture, Sarah founded GrowSpace to make hydroponics accessible to everyone.')}
+                {t('With over 15 years in sustainable agriculture, Sarah founded GrowHydro to make hydroponics accessible to everyone.')}
               </p>
             </div>
             <div className="text-center">
