@@ -27,6 +27,7 @@ const Shop = lazy(() => import("./pages/Shop"));
 const ShopCategory = lazy(() => import("./pages/ShopCategory"));
 const ProductDetail = lazy(() => import("./pages/ProductDetail"));
 const ARPreview = lazy(() => import("./pages/ARPreview"));
+const ManajemenToko = lazy(() => import("./pages/ManajemenToko"));
 const Blog = lazy(() => import("./pages/Blog"));
 const BlogPost = lazy(() => import("./pages/BlogPost"));
 const Contact = lazy(() => import("./pages/Contact"));
@@ -131,6 +132,7 @@ const AnimatedRoutes = () => {
               <Route path="/shop/:category" element={<ShopCategory />} />
               <Route path="/product/:id" element={<ProductDetail />} />
               <Route path="/ar-preview" element={<ARPreview />} />
+              <Route path="/manajemen-toko" element={<ManajemenToko />} />
               <Route path="/blog" element={<Blog />} />
               <Route path="/blog/:slug" element={<BlogPost />} />
               <Route path="/contact" element={<Contact />} />

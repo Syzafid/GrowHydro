@@ -140,7 +140,13 @@ const Header: React.FC = () => {
                     </ul>
                   </NavigationMenuContent>
                 </NavigationMenuItem>
-                
+
+                <NavigationMenuItem>
+                  <Link to="/manajemen-toko" className={navigationMenuTriggerStyle()}>
+                    {t('Manajemen Toko')}
+                  </Link>
+                </NavigationMenuItem>
+
                 <NavigationMenuItem>
                   <Link to="/blog" className={navigationMenuTriggerStyle()}>
                     {t('Blog')}
