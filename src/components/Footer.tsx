@@ -217,7 +217,7 @@ const Footer: React.FC = () => {
                 <div className="mr-3 p-2 bg-leaf-700/50 rounded-full">
                   <MapPin size={18} className="text-leaf-300" />
                 </div>
-                <span className="text-leaf-100">123 Green Street, Plant City, 10001</span>
+                <span className="text-leaf-100">Laut Dendang, Jl. Warakauri, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371</span>
               </motion.li>
               <motion.li 
                 className="flex items-center"
@@ -227,8 +227,8 @@ const Footer: React.FC = () => {
                 <div className="mr-3 p-2 bg-leaf-700/50 rounded-full">
                   <Phone size={18} className="text-leaf-300" />
                 </div>
-                <a href="tel:+1234567890" className="text-leaf-100 hover:text-white transition-colors">
-                  +1 (234) 567-890
+                <a href="tel:+6285261978079" className="text-leaf-100 hover:text-white transition-colors">
+                  +62 852-6197-8079
                 </a>
               </motion.li>
               <motion.li 

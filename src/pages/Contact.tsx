@@ -139,8 +139,8 @@ const Contact: React.FC = () => {
                         className="w-full h-full object-cover"
                       />
                     </div>
-                    <h4 className="font-medium text-leaf-800">Sarah Johnson</h4>
-                    <p className="text-sm text-gray-600">{t('Customer Support')}</p>
+                    <h4 className="font-medium text-leaf-800">Syafrizal Amri Fajar</h4>
+                    <p className="text-sm text-gray-600">{t('Founder & Developer')}</p>
                   </div>
                   <div className="text-center">
                     <div className="w-24 h-24 mx-auto rounded-full overflow-hidden border-2 border-leaf-200 mb-3">
@@ -150,7 +150,7 @@ const Contact: React.FC = () => {
                         className="w-full h-full object-cover"
                       />
                     </div>
-                    <h4 className="font-medium text-leaf-800">Michael Chen</h4>
+                    <h4 className="font-medium text-leaf-800">AnyaLia</h4>
                     <p className="text-sm text-gray-600">{t('Hydroponic Expert')}</p>
                   </div>
                 </div>
@@ -168,7 +168,7 @@ const Contact: React.FC = () => {
                     <div>
                       <p className="font-medium">{t('Email Us')}</p>
                       <a href="mailto:support@hydroharvest.com" className="text-blue-600 hover:underline">
-                        support@hydroharvest.com
+                        support@growhydro.com
                       </a>
                     </div>
                   </div>
@@ -177,18 +177,18 @@ const Contact: React.FC = () => {
                     <Phone className="text-leaf-600 mr-3 mt-1" size={20} />
                     <div>
                       <p className="font-medium">{t('Call Us')}</p>
-                      <a href="tel:+18005551234" className="text-blue-600 hover:underline">
-                        1-800-555-1234
+                      <a href="tel:+6285261978079" className="text-blue-600 hover:underline">
+                        +62 852-6197-8079
                       </a>
-                      <p className="text-sm text-gray-600">{t('Mon-Fri: 9AM - 5PM EST')}</p>
+                      <p className="text-sm text-gray-600">{t('Mon-Fri: 9AM - 5PM GMT+7')}</p>
                     </div>
                   </div>
                   
                   <div className="flex items-start">
                     <MapPin className="text-leaf-600 mr-3 mt-1" size={20} />
                     <div>
-                      <p className="font-medium">{t('Visit Our Store')}</p>
-                      <p>123 Garden Lane, Green City, GC 12345</p>
+                      <p className="font-medium">{t('Visit Our Office')}</p>
+                      <p>Laut Dendang, Jl. Warakauri, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371</p>
                     </div>
                   </div>
                 </div>
@@ -214,7 +214,7 @@ const Contact: React.FC = () => {
           {/* Map Section */}
           <div className="mt-12 rounded-xl overflow-hidden shadow-lg">
             <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9503398796587!2d-73.9651!3d40.7834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f63e96d30dc9%3A0x4b5ab99151580078!2sCentral%20Park!5e0!3m2!1sen!2sus!4v1652813333521!5m2!1sen!2sus" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2078.055973680796!2d98.72939350747433!3d3.614087064335504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x303131c3e3b23239%3A0xda80f981258ea578!2sPoliteknik%20WBI!5e0!3m2!1sid!2sid!4v1748490580078!5m2!1sid!2sid" 
               width="100%" 
               height="450" 
               style={{ border: 0 }} 

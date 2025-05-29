@@ -171,38 +171,38 @@ const AboutUs: React.FC = () => {
                   className="object-cover w-full h-full"
                 />
               </div>
-              <h3 className="text-xl font-semibold text-leaf-800 mb-1">Sarah Johnson</h3>
+              <h3 className="text-xl font-semibold text-leaf-800 mb-1">Syafrizal Amri Fajar</h3>
               <p className="text-leaf-600 mb-3">{t('Founder & CEO')}</p>
               <p className="text-gray-600">
-                {t('With over 15 years in sustainable agriculture, Sarah founded GrowHydro to make hydroponics accessible to everyone.')}
+                {t('With over 5 years in sustainable agriculture, Syafrizal founded GrowHydro to make hydroponics accessible to everyone.')}
               </p>
             </div>
             <div className="text-center">
               <div className="rounded-full overflow-hidden w-48 h-48 mx-auto mb-4 shadow-lg">
                 <img
-                  src="https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?auto=format&fit=crop&q=80&w=400"
+                  src=""
                   alt="CTO Portrait"
                   className="object-cover w-full h-full"
                 />
               </div>
-              <h3 className="text-xl font-semibold text-leaf-800 mb-1">Michael Chen</h3>
+              <h3 className="text-xl font-semibold text-leaf-800 mb-1">Syzaf Lee</h3>
               <p className="text-leaf-600 mb-3">{t('CTO')}</p>
               <p className="text-gray-600">
-                {t('Michael leads our R&D team, combining his background in engineering and plant science to create innovative growing solutions.')}
+                {t('Syzaf leads our R&D team, combining his background in engineering and plant science to create innovative growing solutions.')}
               </p>
             </div>
             <div className="text-center">
               <div className="rounded-full overflow-hidden w-48 h-48 mx-auto mb-4 shadow-lg">
                 <img
-                  src="https://images.unsplash.com/photo-1499952127939-9bbf5af6c51c?auto=format&fit=crop&q=80&w=400"
+                  src=""
                   alt="CCO Portrait"
                   className="object-cover w-full h-full"
                 />
               </div>
-              <h3 className="text-xl font-semibold text-leaf-800 mb-1">Emily Rodriguez</h3>
+              <h3 className="text-xl font-semibold text-leaf-800 mb-1">AnyaLia</h3>
               <p className="text-leaf-600 mb-3">{t('Customer Experience')}</p>
               <p className="text-gray-600">
-                {t('Emily ensures that every customer has the knowledge and support they need to succeed with their hydroponic garden.')}
+                {t('AnyaLia ensures that every customer has the knowledge and support they need to succeed with their hydroponic garden.')}
               </p>
             </div>
           </div>
